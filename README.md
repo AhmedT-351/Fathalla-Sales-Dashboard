@@ -16,4 +16,4 @@ This dashboard provides a clear and dynamic view of Fathalla’s business perfor
 - Slicers (for interactive filtering)  
 
 ## 📷 Preview
-![Fathalla Excel Dashboard](screenshot.png)
+![Fathalla Dashboard](Fathalla%20Dashboard.png)
